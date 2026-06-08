@@ -1,0 +1,25 @@
+Month,Region,Product,Sales,Revenue,Units,Returns,Satisfaction
+Jan,North,Widget A,1200,36000,120,8,4.2
+Jan,South,Widget B,980,24500,98,5,3.9
+Jan,East,Widget C,750,22500,75,12,4.5
+Feb,North,Widget A,1350,40500,135,6,4.3
+Feb,South,Widget B,1100,27500,110,4,4.1
+Feb,East,Widget C,820,24600,82,9,4.6
+Mar,North,Widget A,900,27000,90,15,3.8
+Mar,South,Widget B,1250,31250,125,3,4.4
+Mar,East,Widget C,1100,33000,110,7,4.7
+Apr,North,Widget A,1500,45000,150,5,4.5
+Apr,South,Widget B,870,21750,87,11,3.7
+Apr,East,Widget C,950,28500,95,8,4.3
+May,North,Widget A,1650,49500,165,4,4.6
+May,South,Widget B,1400,35000,140,6,4.5
+May,East,Widget C,1200,36000,120,5,4.8
+Jun,North,Widget A,1800,54000,180,3,4.7
+Jun,South,Widget B,1550,38750,155,4,4.6
+Jun,East,Widget C,1350,40500,135,6,4.9
+Jul,North,Widget A,2100,63000,210,2,4.8
+Jul,South,Widget B,1700,42500,170,5,4.4
+Jul,East,Widget C,1600,48000,160,4,5.0
+Aug,North,Widget A,1950,58500,195,7,4.5
+Aug,South,Widget B,1850,46250,185,3,4.7
+Aug,East,Widget C,1450,43500,145,6,4.6

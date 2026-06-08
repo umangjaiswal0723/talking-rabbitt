@@ -1,0 +1,26 @@
+Employee_ID,Department,Role,City,Experience_Years,Salary,Performance_Score,Leaves_Taken,Projects_Completed,Satisfaction_Score
+E001,Engineering,Developer,Mumbai,3,75000,88,8,12,4.2
+E002,Sales,Manager,Delhi,7,95000,92,5,18,4.5
+E003,HR,Executive,Bangalore,2,45000,75,12,6,3.8
+E004,Engineering,Senior Dev,Mumbai,6,110000,95,4,22,4.7
+E005,Marketing,Analyst,Pune,4,60000,82,9,10,4.0
+E006,Sales,Executive,Delhi,1,40000,70,15,5,3.5
+E007,Engineering,Developer,Bangalore,2,72000,85,7,11,4.1
+E008,Finance,Analyst,Mumbai,5,80000,90,6,14,4.4
+E009,HR,Manager,Delhi,8,90000,88,4,20,4.6
+E010,Engineering,Lead,Bangalore,9,135000,97,3,28,4.9
+E011,Marketing,Manager,Pune,6,85000,86,7,16,4.3
+E012,Sales,Executive,Mumbai,2,42000,72,14,6,3.6
+E013,Engineering,Developer,Delhi,3,76000,84,8,12,4.2
+E014,Finance,Manager,Bangalore,7,105000,93,5,19,4.7
+E015,HR,Executive,Pune,1,38000,68,16,4,3.4
+E016,Engineering,Senior Dev,Mumbai,5,108000,94,4,21,4.6
+E017,Sales,Manager,Delhi,8,98000,91,5,17,4.5
+E018,Marketing,Analyst,Bangalore,3,58000,80,10,9,3.9
+E019,Engineering,Developer,Pune,2,70000,83,8,11,4.1
+E020,Finance,Executive,Mumbai,4,65000,87,7,13,4.3
+E021,Engineering,Lead,Delhi,10,140000,98,2,30,5.0
+E022,Sales,Executive,Bangalore,1,41000,71,15,5,3.5
+E023,HR,Manager,Mumbai,7,88000,89,5,19,4.5
+E024,Engineering,Developer,Pune,3,74000,86,8,12,4.2
+E025,Marketing,Manager,Delhi,5,82000,85,7,15,4.3
